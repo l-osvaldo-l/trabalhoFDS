@@ -1,5 +1,5 @@
 const botão = document.querySelector('.botao');
-let saudação = document.querySelector('.saudacao')
+let saudação = document.querySelector('.saudacao');
 
 botão.addEventListener("click", saudar);
 
